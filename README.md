@@ -2,7 +2,7 @@
   <img src="git1.jpg">
 </p>
 
-### Hi I'm Junior 👋
+# Hi I'm Junior 👋
 From aviation to innovation. 
 I'm a beginner in technology. 
 <hr>
