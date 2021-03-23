@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git.jpg">
+  <img src="git1.jpg">
 </p>
 
 ### Hi I'm Junior 👋
