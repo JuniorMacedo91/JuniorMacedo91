@@ -11,7 +11,7 @@ I'm a beginner in technology.
 - I’m currently learning HTML5, CSS3, JavaScript and Python
 - I'm focusing on becoming a Front end Developer
 <hr>
-### 👨‍💻 Technologies
+👨‍💻 Technologies
 
 <br />
 
