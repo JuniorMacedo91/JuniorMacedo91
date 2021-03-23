@@ -3,11 +3,11 @@
 </p>
 
 ### Hi I'm Junior 👋
-
-
+##From aviation to innovation. 
+I'm a beginner in technology. 
 
 - 📫 How to reach me:
-
+[connect](https://www.linkedin.com/in/osmar-m-436190138/)!
 <hr>
 
 - I'm from Brazil, 29yo
