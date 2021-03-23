@@ -5,16 +5,13 @@
 ### Hi I'm Junior 👋
 From aviation to innovation. 
 I'm a beginner in technology. 
-
-- 📫 How to reach me:
-(https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
 <hr>
 
 - I'm from Brazil, 29yo
 - I’m currently learning HTML5, CSS3, JavaScript and Python
 - I'm focusing on becoming a Front end Developer
 <hr>
-👨‍💻 Technologies
+### 👨‍💻 Technologies
 
 <br />
 
