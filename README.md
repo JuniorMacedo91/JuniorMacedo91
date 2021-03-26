@@ -5,6 +5,7 @@
 # Hi I'm Junior 👋
 From aviation to innovation. 
 I'm a beginner in technology. 
+Exciting to learn everything about Wev Developing
 <hr>
 
 - I'm from Brazil, 29yo
