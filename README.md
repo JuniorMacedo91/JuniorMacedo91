@@ -6,11 +6,6 @@
 - From aviation to innovation. 
 - I'm a beginner in technology. 
 - Exciting to learn everything about Wev Developing
-
-
-- I'm from Brazil, 29yo
-- I’m currently learning HTML5, CSS3, JavaScript and Python
-- I'm focusing on becoming a Front end Developer
 <hr>
 👨‍💻 Technologies
 
