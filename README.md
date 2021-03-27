@@ -5,7 +5,7 @@
 # Hi I'm Junior 👋
 - From aviation to innovation. 
 - I'm a beginner in technology. 
-- Exciting to learn everything about Wev Developing
+- Exciting to learn everything about Web Developing
 <hr>
 👨‍💻 Technologies
 
