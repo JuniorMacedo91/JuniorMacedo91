@@ -7,7 +7,8 @@
 - I'm a beginner in technology. 
 - Exciting to learn everything about Web Developing
 <hr>
-👨‍💻 Technologies
+
+## 💻 Technologies
 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
