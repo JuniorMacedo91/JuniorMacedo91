@@ -1,9 +1,10 @@
 <p align="center">
   <img src="git1.jpg">
-</p>
+</p
 
 # Hi I'm Junior 👋
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=blue)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=bluehttps://github.com/JuniorMacedo91)](https://www.linkedin.com/in/osmar-m-436190138/)
 
 - From aviation to innovation. 
 - I'm a beginner in technology. 
