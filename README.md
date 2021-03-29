@@ -3,7 +3,7 @@
 </p>
   
 # Junior Macedo 👋
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=blue)]("https://www.linkedin.com/in/osmar-m-436190138/")
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=blue)](https://www.linkedin.com/in/osmar-m-436190138/)
   
 - From aviation to innovation. 
 - I'm a beginner in technology. 
