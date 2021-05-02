@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="git1.jpg">
-</p>
-  
 # Junior Macedo 👋
   
 - From aviation to innovation. 
