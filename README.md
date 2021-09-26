@@ -1,12 +1,14 @@
 # Junior Macedo 👋
-  
-- From aviation to innovation. 
-- I'm a beginner in technology. 
-- Exciting to learn everything about Web Developing
-- Learning HTML, CSS and JavaScript
 
+> ## My motto: "I don't want to learn fast. I want to learn right"
+ 
 
-## 💻 Technologies
+- From aviation to innovation
+- Beginner in Front End Development since March/2021
+- I'm focusing on improve my hard skills by taking courses and networking
+- Currently learning JavaScript by Programador BR - https://programadorbr.com/
+
+## 💻 Skills
 
 [![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91)
 [![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)](https://github.com/JuniorMacedo91)
