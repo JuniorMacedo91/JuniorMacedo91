@@ -1,12 +1,11 @@
 # Junior Macedo 👋
 
-> ## My motto: "I don't want to learn fast. I want to learn right"
- 
+>  "It's not only another project. It is an evolution of coding"
 
 - From aviation to innovation
 - Beginner in Front End Development since March/2021
 - I'm focusing on improve my hard skills by taking courses and networking
-- Currently learning JavaScript by Programador BR - https://programadorbr.com/
+- Currently improving JavaScript by Programador BR - https://programadorbr.com/
 
 ## 💻 Skills
 
