@@ -5,14 +5,14 @@
 - From aviation to innovation
 - Beginner in Front End Development since March/2021
 - I'm focusing on improve my hard skills by taking courses and networking
-### Skills improved:
-- HTML 5;
-- CSS 3;
-
 
 ### Currently learning:
   - Javascript;
   - Firebase
+
+### Skills improved:
+- HTML 5;
+- CSS 3;
 
 ## 💻 Skills
 
