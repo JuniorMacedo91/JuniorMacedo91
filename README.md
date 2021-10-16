@@ -7,8 +7,9 @@
 - I'm focusing on improve my hard skills by taking courses and networking
 
 ### Currently learning:
-[![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black)](https://github.com/JuniorMacedo91)
-[![Sass](https://img.shields.io/badge/Sass-blueviolet?style=for-the-badge&logo=sass&labelColor=black)](https://github.com/JuniorMacedo91)
+
+[![Bootstrap](https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&labelColor=black)](https://github.com/JuniorMacedo91)
+[![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass&labelColor=black)](https://github.com/JuniorMacedo91)
 
 ### Improved Skills:
 [![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91)
