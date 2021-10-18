@@ -17,7 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&labelColor=black)](https://github.com/JuniorMacedo91)
 [![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&labelColor=black)](https://github.com/JuniorMacedo91)
 [![JQuery](https://img.shields.io/badge/Jquery-teal?style=for-the-badge&logo=jquery&labelColor=black)](https://github.com/JuniorMacedo91)
-
+[![Git](https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&labelColor=black)](https://github.com/JuniorMacedo91)
 
 ## 📭 Find me on:
 
