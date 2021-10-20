@@ -4,7 +4,7 @@
 
 - From aviation to innovation
 - Studying Front End Development since March/2021
-- I'm focusing on improve my hard skills by taking courses and networking
+- I'm focusing on improve my hard skills by taking courses and networking.
 
 ### Currently learning:
 
