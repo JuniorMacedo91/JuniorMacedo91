@@ -3,7 +3,7 @@
 >## "It's not only another project. It is an evolution of coding"
 
 - From aviation to innovation
-- Studying Front End Development since March/2021
+- Studying Front End Development since March/2021 by Programador BR
 - I'm focusing on improve my hard skills by taking courses and networking.
 
 ### Currently learning:
