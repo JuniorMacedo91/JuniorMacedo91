@@ -7,9 +7,7 @@
 - I'm focusing on improve my hard skills by taking courses and networking.
 
 ### Currently learning:
-
-[![Bootstrap](https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&labelColor=black)](https://github.com/JuniorMacedo91)
-[![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass&labelColor=black)](https://github.com/JuniorMacedo91)
+[![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&labelColor=black)](https://github.com/JuniorMacedo91)
 
 ### Improved Skills:
 [![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91)
@@ -18,6 +16,8 @@
 [![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&labelColor=black)](https://github.com/JuniorMacedo91)
 [![JQuery](https://img.shields.io/badge/Jquery-teal?style=for-the-badge&logo=jquery&labelColor=black)](https://github.com/JuniorMacedo91)
 [![Git](https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&labelColor=black)](https://github.com/JuniorMacedo91)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&labelColor=black)](https://github.com/JuniorMacedo91)
+[![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass&labelColor=black)](https://github.com/JuniorMacedo91)
 
 ## 📭 Find me on:
 
