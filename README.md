@@ -4,7 +4,7 @@
 
 - From aviation to innovation
 - Studying Front End Development since March/2021 by Programador BR
-- I'm focusing on improve my hard skills by taking courses and networking.
+- I'm focusing on improve my hard skills by taking courses and networking
 
 ### Currently learning:
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&labelColor=black)](https://github.com/JuniorMacedo91)
