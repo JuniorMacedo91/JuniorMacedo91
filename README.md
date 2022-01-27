@@ -6,9 +6,6 @@
 - Studying Front-end Development
 - I'm focusing on improve my hard skills by taking courses, networking and mentoring.
 
-### Currently learning:
-[![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&labelColor=black)](https://github.com/JuniorMacedo91)
-
 ### Improved Skills:
 [![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91)
 [![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)](https://github.com/JuniorMacedo91)
