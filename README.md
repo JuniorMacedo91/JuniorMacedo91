@@ -2,7 +2,7 @@
 
 >## "It's not only another project. It is an evolution of coding"
 
-- From aviation to innovation
+- Web product Implementation at Cognizant
 - Studying Front-end Development
 - I'm focusing on improve my hard skills by taking courses, networking and mentoring.
 
